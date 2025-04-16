@@ -72,7 +72,7 @@ class Config(object):
 
 📡 **ʜᴏꜱᴛᴇᴅ ᴏɴ:** [koyeb](https://app.koyeb.com)
 
-🧑🏻‍💻 **DΞVΞLФPΞЯ:** [L͢a͢z͢y͢D͢e͢v͢e͢l͢o͢p͢e͢r͢r](https://t.me/LazyDeveloperr)
+🧑🏻‍💻 **DΞVΞLФPΞЯ:** [꧁𓊈𒆜𝖒𝖎𝖒𝖆𝖒_𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑𒆜𓊉꧂](https://t.me/mimam_officialx)
 
 👥 **šupp⊕r† gr⊕up:** [LazY-SupP⊕ЯΓ](https://t.me/LazyDeveloperSupport)
 
