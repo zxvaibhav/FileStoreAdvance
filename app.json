@@ -1,14 +1,15 @@
 {
     "name": "Telegram Files Store Bot",
-    "description": "A Telegram Files Store Bot in Pyrogram by @vaibhavsatpute",
+    "description": "A Telegram Files Store Bot in Pyrogram by @LazyDeveloperr",
     "keywords": [
         "telegram",
         "files",
         "store",
         "bot"
     ],
-    "website": "https://vaibhavsatpute.netlify.app",
-    "success_url": "https://t.me/OpModsForYou",
+    "repository": "https://github.com/LazyDeveloperr/MissRozy",
+    "website": "https://telegram.dog/LazyDeveloperr",
+    "success_url": "https://t.me/LazyDeveloperr",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
